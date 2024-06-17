@@ -45,12 +45,23 @@ MISC
     color: white;
   }
   .btn-outline-secondary{
-    background-color: #438f74;
+    background-color: #50a98a;
     text-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
   }
   .btn-outline-secondary:hover {
-    background-color: #4976BB;
-    color: #fff;
+    background-color: #ffffff;
+    color: #4976BB;
+    text-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
+
+  }
+
+  .btn-third{
+    background-color: #50a98a;
+    text-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
+  }
+  .btn-third:hover {
+    background-color: #ffffff;
+    color: #4976BB;
     text-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
 
   }
@@ -160,6 +171,18 @@ MISC
 
 .big{ margin-top: -50px;}
 
+.bigs{ margin-top: -25px;}
+
 .text-body-secondary{color:#fff;}
 
 .space{margin-top: 250px;}
+
+.end{margin-bottom: 75px;}
+
+.pad{padding: 5%;}
+
+.abcw{margin-bottom: 50px;}
+
+.abcy{margin-top: 50px;}
+
+.abcz{margin-top: -50px;}
