@@ -45,12 +45,24 @@ MISC
     color: white;
   }
   .btn-outline-secondary{
-    background-color: #438f74;
+    background-color: #479478;
+    color: #ffffff;
     text-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
   }
   .btn-outline-secondary:hover {
     background-color: #4976BB;
-    color: #fff;
+    color: #ffffff;
+    text-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
+
+  }
+
+  .btn-third{
+    background-color: #50a98a;
+    text-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
+  }
+  .btn-third:hover {
+    background-color: #ffffff;
+    color: #4976BB;
     text-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
 
   }
@@ -160,6 +172,64 @@ MISC
 
 .big{ margin-top: -50px;}
 
+.bigs{ margin-top: -25px;}
+
 .text-body-secondary{color:#fff;}
 
 .space{margin-top: 250px;}
+
+.end{margin-bottom: 75px;}
+
+.pad{padding: 5%;}
+
+.abcw{margin-bottom: 50px;}
+
+.abcy{margin-top: 50px;}
+
+.abcz{margin-top: -50px;}
+
+.littlespace{margin-top: -120px;}
+
+.mrbe{width: 25%;
+  min-width: 20em; /* Will be AT LEAST 20em wide */
+}
+
+.marg{margin: 5px;}
+
+.susman{
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.abczo{margin-top: -40px;}
+
+.whop{padding: 80px;}
+
+.mrbr{width: 14%;
+  min-width: 11em; /* Will be AT LEAST 20em wide */
+}
+
+.btnre{margin: 14px;}
+
+.xd{margin-top: -90px;}
+
+.xds{margin-top: -50px;}
+
+.linkreg{
+  color: white;
+  text-decoration:none;
+}
+.linkreg:hover {
+  color:#50a98a;
+  text-decoration:none;
+
+}
+.widf{
+  max-width: 20%;}
+
+
+.whep{padding: 5%;}
+
+.colorblue{color: #4976BB;}
+
+.backsw:hover{
+width: 68px;}
