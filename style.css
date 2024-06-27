@@ -224,6 +224,7 @@ MISC
 
 }
 .widf{
+  min-width: 160px;
   max-width: 20%;}
 
 
@@ -233,3 +234,24 @@ MISC
 
 .backsw:hover{
 width: 68px;}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0; /* remove the gap so it doesn't close */
+  background-color: #4976BB;
+border-color:white ;
+}
+
+.dropdown-item{color:#fff}
+.dropdown-item:hover{color:#50a98a}
+
+.widfth{min-width: 213.3px;
+  max-width: 33.3%;}
+
+  .ratings{
+    margin-right:10px;
+}
+
+.pio{
+  margin-top:-16px;
+  margin-bottom:5px;}
