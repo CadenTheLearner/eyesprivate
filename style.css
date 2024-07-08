@@ -184,7 +184,7 @@ MISC
 
 .abcw{margin-bottom: 50px;}
 
-.abcy{margin-top: 50px;}
+.abcy{margin-top: 4%;}
 
 .abcz{margin-top: -50px;}
 
@@ -245,8 +245,9 @@ border-color:white ;
 .dropdown-item{color:#fff}
 .dropdown-item:hover{color:#50a98a}
 
-.widfth{min-width: 213.3px;
-  max-width: 33.3%;}
+.widfth{min-width: 425px;
+  max-width: 30.3%;
+margin-left: 3%;}
 
   .ratings{
     margin-right:10px;
@@ -255,3 +256,10 @@ border-color:white ;
 .pio{
   margin-top:-16px;
   margin-bottom:5px;}
+
+  .lessb{margin-left: 10px;}
+  .mort{margin-left: 10px;}
+  .marf{margin-bottom: 30px;}
+
+  .negit{margin-top: -50px;
+    margin-bottom: -50px;}
