@@ -263,3 +263,7 @@ margin-left: 3%;}
 
   .negit{margin-top: -50px;
     margin-bottom: -50px;}
+    
+    body {
+      overflow-x: hidden; /*hides horizontal scrollbar*/
+  }
