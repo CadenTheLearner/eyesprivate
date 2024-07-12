@@ -224,8 +224,11 @@ MISC
 
 }
 .widf{
+  margin-left: auto;
+  margin-right: auto;
   min-width: 160px;
-  max-width: 20%;}
+  max-width: 20%;
+}
 
 
 .whep{padding: 5%;}
@@ -245,7 +248,7 @@ border-color:white ;
 .dropdown-item{color:#fff}
 .dropdown-item:hover{color:#50a98a}
 
-.widfth{min-width: 425px;
+.widfth{min-width: 375px;
   max-width: 30.3%;
 margin-left: 3%;}
 
@@ -263,3 +266,8 @@ margin-left: 3%;}
 
   .negit{margin-top: -50px;
     margin-bottom: -50px;}
+    
+    body {
+      overflow-x: hidden; /*hides horizontal scrollbar*/
+  }
+  .millk{margin-bottom: -135px;}
