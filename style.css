@@ -202,9 +202,18 @@ MISC
 }
 .abczo{margin-top: -40px;}
 
-.whop{padding: 80px;}
+.whop{padding: 72px;}
 
 .mrbr{width: 14%;
+  min-width: 11em; /* Will be AT LEAST 20em wide */
+}
+.mrbre{width: 20%;
+  min-width: 11em; /* Will be AT LEAST 20em wide */
+}
+.mrbrre{width: 26%;
+  min-width: 11em; /* Will be AT LEAST 20em wide */
+}
+.mrbrrre{width: 32%;
   min-width: 11em; /* Will be AT LEAST 20em wide */
 }
 
@@ -271,3 +280,5 @@ margin-left: 3%;}
       overflow-x: hidden; /*hides horizontal scrollbar*/
   }
   .millk{margin-bottom: -135px;}
+  .bet{margin-top: auto;
+  margin-bottom: auto;}
