@@ -211,10 +211,10 @@ MISC
   min-width: 11em; /* Will be AT LEAST 20em wide */
 }
 .mrbrre{width: 26%;
-  min-width: 11em; /* Will be AT LEAST 20em wide */
+  min-width: 15em; /* Will be AT LEAST 20em wide */
 }
 .mrbrrre{width: 32%;
-  min-width: 11em; /* Will be AT LEAST 20em wide */
+  min-width: 25em; /* Will be AT LEAST 20em wide */
 }
 
 .btnre{margin: 14px;}
@@ -282,3 +282,4 @@ margin-left: 3%;}
   .millk{margin-bottom: -135px;}
   .bet{margin-top: auto;
   margin-bottom: auto;}
+
