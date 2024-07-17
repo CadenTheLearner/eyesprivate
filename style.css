@@ -207,7 +207,10 @@ MISC
 .mrbr{width: 14%;
   min-width: 11em; /* Will be AT LEAST 20em wide */
 }
-.mrbre{width: 20%;
+.mrbre{width:20%;
+  min-width: 11em; /* Will be AT LEAST 20em wide */
+}
+.mrbrse{width:22%;
   min-width: 11em; /* Will be AT LEAST 20em wide */
 }
 .mrbrre{width: 26%;
@@ -283,3 +286,12 @@ margin-left: 3%;}
   .bet{margin-top: auto;
   margin-bottom: auto;}
 
+  .glas{color:#fff;
+  text-align: left; padding: 1%;}
+  .glas:hover{color:#fff; 
+  background-color: #4976BB;
+padding: 1%;}
+  .reg{color:#fff}
+  .reg:hover{background-color:#4976BB;
+     color:#fff;}
+  
